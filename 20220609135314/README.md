@@ -6,3 +6,4 @@ echo "'$DIR' found and now copying files, please wait ..."
 else
 echo "Warning: '$DIR' NOT found."
 fi
+<!-- public=True -->
