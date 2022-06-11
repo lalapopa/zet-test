@@ -14,6 +14,8 @@ to generate (default is 1). method, Either w for words, p for HTML paragraphs
 
 Cool huh?
 
+* [20220609143904](/20220609143904/) note number three
+
 Tags:
 
     #vim #screenshot
