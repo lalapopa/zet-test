@@ -14,6 +14,28 @@ to generate (default is 1). method, Either w for words, p for HTML paragraphs
 
 Cool huh?
 
+
+## Pancake reciepe 
+
+![pancake](figures/fig2.png)
+
+1 ½ cups all-purpose flour
+
+3 ½ teaspoons baking powder
+
+¼ teaspoon salt, or more to taste
+
+1 tablespoon white sugar
+
+1 ¼ cups milk
+
+1 egg
+
+3 tablespoons butter, melted
+
+
+
+
 * [20220609143904](/20220609143904/) note number three
 
 Tags:
