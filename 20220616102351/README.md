@@ -21,7 +21,10 @@ Some text
 1. some text8
 1. some text9
 
-> There block quote (). :)
+
+> There block quote wdwawkjdlwak jd.a dlkjwa ldj lkawjd.akw djlka jw
+> Another part kwajd lkwaj dljwa d/aw kjdj
+
 
 Some example of code:
 ```javascript
@@ -63,6 +66,7 @@ class Cat:
 
 print(f'This is awsome text {Cat('Tarugi', '12.02.4343', 123132)}')
 ```
+This is the end. Hold your breath and count to ten... 
 
 Tags:
 
